@@ -9,6 +9,8 @@ Gestion des tests : JUnit 4 & Hamcrest
 Modélisation : PlantUML
 
 <img width="460" height="215" alt="image" src="https://github.com/user-attachments/assets/e81a4d9e-916f-489c-b112-18754fbab6eb" />
+<img width="750" height="422" alt="image" src="https://github.com/user-attachments/assets/1df6f442-8ab1-44a3-a476-8787abc33cad" />
+
 
 ### interface joueur : 
 
