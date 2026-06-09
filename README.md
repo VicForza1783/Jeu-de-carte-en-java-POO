@@ -9,6 +9,7 @@ Gestion des tests : JUnit 4 & Hamcrest
 Modélisation : PlantUML
 
 <img width="460" height="215" alt="image" src="https://github.com/user-attachments/assets/e81a4d9e-916f-489c-b112-18754fbab6eb" />
-<img width="706" height="270" alt="Capture d’écran du 2026-06-09 13-55-18" src="https://github.com/user-attachments/assets/70df9086-0402-4cc6-981d-3d9544d79972" />
 <img width="704" height="813" alt="Capture d’écran du 2026-06-09 13-55-06" src="https://github.com/user-attachments/assets/6c3ae439-b5bd-41ec-b234-ef93743bdee5" />
+<img width="706" height="270" alt="Capture d’écran du 2026-06-09 13-55-18" src="https://github.com/user-attachments/assets/70df9086-0402-4cc6-981d-3d9544d79972" />
+
 
