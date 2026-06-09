@@ -52,7 +52,17 @@ Tour de l'adversaire : L'IA joue ses cartes selon une stratégie entièrement pr
 
 Il y a 6 pouvoirs spécifiques appliqués aux créatures.
 
-Nombreuses vies pour les chats : La carte ne meurt pas et reste sur le plateau lorsqu'elle est sacrifiée pour en poser une autre. Croissance (Louveteau) : Se transforme automatiquement en Loup au début de son deuxième tour sur le plateau. Puant (Punaise) : Réduit de 1 le score d'attaque de la carte adverse qui lui fait face. Coureur (Élan) : Se déplace d'une case vers la droite après avoir attaqué. Si c'est bloqué, va à gauche. Si tout est bloqué, ne bouge pas.Contact Mortel (Vipère) : Tue instantanément n'importe quelle créature à qui elle inflige des dégâts (ne fonctionne pas sur les obstacles). Piques pointues (Porc-épic) : Inflige automatiquement 1 point de dégât à la carte qui l'attaque.
+Nombreuses vies pour les chats : La carte ne meurt pas et reste sur le plateau lorsqu'elle est sacrifiée pour en poser une autre. 
+
+Croissance pour le Louveteau : Se transforme automatiquement en Loup au début de son deuxième tour sur le plateau.
+
+Puant pour la punaise : Réduit de 1 le score d'attaque de la carte adverse qui lui fait face. 
+
+Coureur pour l'Élan : Se déplace d'une case vers la droite après avoir attaqué. Si c'est bloqué, va à gauche. Si tout est bloqué, ne bouge pas.
+
+Contact Mortel pour la Vipère : Tue instantanément n'importe quelle créature à qui elle inflige des dégâts (ne fonctionne pas sur les obstacles). 
+
+Piques pointues pour le Porc-épic : Inflige automatiquement 1 point de dégât à la carte qui l'attaque.
 
 
 
